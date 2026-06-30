@@ -1,0 +1,7 @@
+cours.py
+cours1.py
+cours2.py
+.venv/
+__pycache__/
+*.pyc
+.env
