@@ -8,7 +8,7 @@ A conversational Q&A chatbot built with **IBM Watsonx.ai** and **Gradio**, power
 
 > Type any question into the input field and get an LLM-generated response in real time.
 
-![Chatbot UI](assets/demo.png)
+![Chatbot UI](img.jpg)
 
 ---
 
